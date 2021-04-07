@@ -6,8 +6,11 @@ int main() {
     int *pt = &a;
     int *pt2  = NULL;
 
-    printf("%p",pt);
-    printf("\n%p",pt2);
+    printf("%d\n",a);
+    printf("%d\n",pt);
+    printf("%d\n",pt2);
+
+
 
 
 
